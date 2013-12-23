@@ -1,0 +1,9 @@
+{
+  "name": "jqTree",
+  "description": "meteor packaged jqTree (https://github.com/mbraak/jqTree)",
+  "homepage": "https://github.com/terryschen/meteor-jqTree",
+  "author": "terryschen ",
+  "version": "0.19.0",
+  "git": "https://github.com/terryschen/meteor-jqTree.git",
+  "packages": {}
+}
